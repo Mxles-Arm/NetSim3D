@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "test": "Blender GLB reimport; not Godot gameplay or manufacturer-fit certification",
+  "mesh_objects": 30,
+  "triangles": 54102,
+  "overall_dimensions_mm_including_handles": [
+    482.6,
+    557.66,
+    88.06
+  ],
+  "ethernet_ports": 2,
+  "contacts_each_ethernet_port": 8,
+  "leds_off_by_default": true,
+  "all_rear_socket_markers_face_outward": true,
+  "ethernet_ac_usb_vga_rays_reach_correct_ports": true,
+  "chassis_has_empty_internal_volume": true,
+  "lid_ram_storage_nic_psu_move_independently": true,
+  "nic_ports_leds_labels_move_with_card": true,
+  "no_external_textures_or_studio_in_export": true,
+  "scene_integrated": false
+}

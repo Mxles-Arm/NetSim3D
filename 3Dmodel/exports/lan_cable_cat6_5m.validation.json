@@ -1,0 +1,28 @@
+{
+  "asset": "lan_cable_cat6_5m",
+  "result": "PASS: structural GLB and path validation",
+  "end_to_end_centerline_length_mm": 5000.0,
+  "jacket_centerline_length_mm": 4931.0,
+  "jacket_diameter_mm": 6.2,
+  "minimum_nonlocal_centerline_separation_mm": 8.66,
+  "path_sample_count": 929,
+  "mesh_objects": 13,
+  "triangles": 31748,
+  "glb_bytes": 821048,
+  "contacts_each_end": 8,
+  "wiring": "T568B / T568B straight-through",
+  "pin_colors": [
+    "white/orange",
+    "orange",
+    "white/green",
+    "blue",
+    "white/blue",
+    "green",
+    "white/brown",
+    "brown"
+  ],
+  "source_curve_in_blend": "Cable_Path_EDIT",
+  "standalone_plug": "rj45_cat6_plug.glb",
+  "scene_integrated": false,
+  "note": "Static coiled GLB; transparent polymer is an alpha approximation. No cable physics or game logic."
+}

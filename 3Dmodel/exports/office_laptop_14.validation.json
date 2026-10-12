@@ -1,0 +1,21 @@
+{
+  "asset": "office_laptop_14",
+  "result": "PASS: structural GLB validation",
+  "triangles": 54887,
+  "mesh_objects": 18,
+  "glb_bytes": 3532828,
+  "base_dimensions_mm": [
+    338,
+    234,
+    23
+  ],
+  "display": "14-inch 16:9",
+  "ethernet_ports": 1,
+  "ethernet_contacts": 8,
+  "power_preview": "ON / internal battery",
+  "network_preview": "disconnected / link LEDs off",
+  "front_axis_gltf": "+Z",
+  "up_axis_gltf": "+Y",
+  "scene_integrated": false,
+  "note": "Generic original art, not manufacturer CAD. Screen UI is static placeholder geometry."
+}

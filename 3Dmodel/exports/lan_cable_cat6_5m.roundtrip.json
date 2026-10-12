@@ -1,0 +1,18 @@
+{
+  "result": "PASS",
+  "test": "Blender GLB roundtrip; not Godot gameplay or physical connector-fit certification",
+  "full_cable_mesh_objects": 13,
+  "full_cable_triangles": 31748,
+  "reusable_plug_mesh_objects": 6,
+  "end_to_end_centerline_length_mm": 5000.0,
+  "minimum_nonlocal_centerline_separation_mm_at_1mm_sampling": 8.642,
+  "connector_body_width_mm": 11.6,
+  "contacts_per_end": 8,
+  "straight_through_T568B_colors_preserved": true,
+  "cable_exit_anchors_match_jacket_endpoints": true,
+  "nose_origin_and_independent_latch_preserved": true,
+  "transparent_materials_preserved": true,
+  "self_contained_glb_without_external_textures": true,
+  "studio_and_source_curve_excluded": true,
+  "scene_integrated": false
+}

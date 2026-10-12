@@ -1,0 +1,20 @@
+{
+  "asset": "office_network_printer",
+  "result": "PASS: structural GLB validation",
+  "mesh_objects": 16,
+  "triangles": 21263,
+  "glb_bytes": 1371932,
+  "ethernet_ports": 1,
+  "ethernet_contacts": 8,
+  "main_case_dimensions_mm_approx": [
+    360,
+    352,
+    253
+  ],
+  "power_connector": "IEC C14 AC mains inlet",
+  "usb_connector": "USB Type-B device port",
+  "lan_default": "disconnected / LEDs off",
+  "optional_paper_export": "printer_printed_sheet_a4.glb",
+  "scene_integrated": false,
+  "note": "Original generic design, not manufacturer CAD; no live printing logic or automatic network state."
+}

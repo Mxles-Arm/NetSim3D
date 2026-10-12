@@ -1,0 +1,16 @@
+{
+  "result": "PASS",
+  "test": "Blender GLB roundtrip, not Godot gameplay test",
+  "mesh_objects": 18,
+  "open_dimensions_mm_blender_xyz": [
+    338.72,
+    276.66,
+    233.24
+  ],
+  "closed_screen_to_keycap_clearance_mm": 2.35,
+  "ethernet_socket_outward_blender": "-X / left side",
+  "ethernet_contacts": 8,
+  "display_hinge_preserved": true,
+  "studio_excluded": true,
+  "led_defaults_correct": true
+}

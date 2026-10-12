@@ -1,0 +1,17 @@
+{
+  "result": "PASS",
+  "test": "Blender GLB roundtrip; not Godot gameplay validation",
+  "printer_mesh_objects": 16,
+  "printer_dimensions_mm": [
+    360.0,
+    353.5,
+    252.25
+  ],
+  "ports_face_rear": true,
+  "ethernet_contacts": 8,
+  "led_defaults_correct": true,
+  "cassette_slide_parent_preserved": true,
+  "studio_and_optional_sheet_excluded": true,
+  "ethernet_and_usb_cavities_clear_of_chassis": true,
+  "separate_A4_sheet_valid": true
+}

@@ -1,0 +1,22 @@
+{
+  "asset": "office_switch_8port",
+  "dimensions_mm": [
+    210,
+    110,
+    36
+  ],
+  "units": "meters",
+  "ports": 8,
+  "contacts_per_port": 8,
+  "mesh_objects": 19,
+  "triangles": 44068,
+  "glb_bytes": 2787876,
+  "validation": "PASS: 8 ports, 8 independent link LEDs, 8 socket anchors, power LED, DC anchor",
+  "export_front_axis": "+Z",
+  "export_up_axis": "+Y",
+  "notes": [
+    "Original generic educational design, not a manufacturer's CAD model.",
+    "LEDs and sockets are prepared for future integration; this file contains no game logic.",
+    "Power LED on; all link LEDs off because no network cables are attached."
+  ]
+}

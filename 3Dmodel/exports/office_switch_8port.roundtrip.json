@@ -1,0 +1,12 @@
+{
+  "result": "PASS",
+  "test": "Blender glTF importer roundtrip (not an in-Godot gameplay test)",
+  "mesh_objects": 19,
+  "dimensions_mm_blender_xyz": [
+    210.0,
+    114.4,
+    36.25
+  ],
+  "all_named_ports_leds_and_socket_anchors_present": true,
+  "no_studio_cameras_or_lights_exported": true
+}

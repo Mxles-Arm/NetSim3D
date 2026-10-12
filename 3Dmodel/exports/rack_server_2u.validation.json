@@ -1,0 +1,21 @@
+{
+  "result": "PASS: structural export",
+  "asset": "rack_server_2u",
+  "mesh_objects": 30,
+  "triangles": 54102,
+  "glb_bytes": 3325584,
+  "ethernet_ports": 2,
+  "contacts_per_lan_port": 8,
+  "rack_units": 2,
+  "case_height_mm": 87.5,
+  "case_width_mm": 430,
+  "rack_ear_span_mm": 482.6,
+  "case_depth_mm": 520,
+  "installed_ram_modules": 2,
+  "storage_drives": 2,
+  "empty_bay_blanks": 2,
+  "psu_count": 1,
+  "default_power": "OFF",
+  "scene_integrated": false,
+  "note": "Original educational design. Internal connectors/pad patterns are illustrative; no manufacturer fit or electrical certification."
+}

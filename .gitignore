@@ -1,0 +1,23 @@
+# Godot generated cache and local editor state
+**/.godot/
+**/.import/
+**/export_templates/
+
+# Blender automatic backups and generated safety copies
+*.blend1
+*.blend2
+*_before_*.blend
+*_backup*.blend
+
+# Downloaded/intermediate build inputs and temporary files
+3Dmodel/temp/
+tmp/
+*.tmp
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
